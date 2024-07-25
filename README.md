@@ -7,7 +7,6 @@
 ## There is a little preview for the Dashboards, Enjoy!
 <br>
 
-https://github.com/al-ghaly/Power-BI-Dashboard/assets/61648960/c5922e3f-a5bd-4b60-90cd-963065fe986d
 
 
 
